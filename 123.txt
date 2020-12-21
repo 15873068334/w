@@ -1,1 +1,5 @@
 上传+第二次
+进入仓库目录
+git add *
+git commit -m "此次修改细节描述"
+git push origin main 更新至远端库
